@@ -114,6 +114,9 @@ h1{
 	text-shadow: 0px 0px 5px #48f750;
 }
 
+a {
+	color: inherit;
+}
 
 a:visited {
 	color: inherit;
