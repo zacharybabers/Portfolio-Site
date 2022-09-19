@@ -1,0 +1,2 @@
+switch to mobile mode at 600px width
+this means middle justifying elements, getting rid of sticky nav bar, etc.
